@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourovkarmokar" alt="sourovkarmokar" /></a> </p>
 
+<img align ="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Rzb3d1ODNkdGlwNDhzbGI1eHA1MHhrd2Q0cHkwamllZjIwdDdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="sourovkarmokar" />
+
 - 🌱 I’m currently learning **Mern Stack Development**
 
 - 💬 Ask me about **AI , Machine Learning , Networking , Mern**
