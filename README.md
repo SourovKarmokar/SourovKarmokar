@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI , Machine Learning , Networking , Mern**
 
-- 📫 How to reach me **sourovkarmokar22@gamil.com**
+- 📫 How to reach me **sourovkarmokar22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
