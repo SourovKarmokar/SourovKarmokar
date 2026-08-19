@@ -7,7 +7,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&label_color=1f1f1f)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
@@ -113,7 +113,17 @@ const sourov = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Overview
+
+<div align="center">
+
+### 🎯 Quick Stats
+- **514** Total Contributions (Oct 4, 2020 - Present)
+- **1** Current Streak (Aug 18)
+- **20** Longest Streak (Jan 21 - Feb 9)
+- **1,596** Profile Views
+
+</div>
 
 <div align="center">
 
@@ -203,14 +213,36 @@ I'm always interested in:
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
+**Find me on all platforms:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
+
+<br/>
+
+| Platform | Contact |
+|----------|---------|
 | 📧 **Email** | [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) |
 | 💼 **LinkedIn** | [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/) |
-| 👤 **Facebook** | [sourov.karmokar.773](https://www.facebook.com/sourov.karmokar.773/) |
-| 📸 **Instagram** | [@sourov_karmokar_](https://www.instagram.com/sourov_karmokar_/) |
-| ▶️ **YouTube** | [@020_sourovkarmokar2](https://www.youtube.com/@020_sourovkarmokar2) |
-| 💻 **GitHub** | [sourovkarmokar](https://github.com/sourovkarmokar) |
+
+</div>
+
+---
+
+## 📊 Contribution Breakdown
+
+<div align="center">
+
+**GitHub Activity Timeline:**
+- 🗓️ **Joined:** October 4, 2020
+- 📈 **Total Contributions:** 514
+- 🔥 **Current Streak:** 1 day (as of Aug 18)
+- ⚡ **Longest Streak:** 20 days (Jan 21 - Feb 9)
+- 👁️ **Profile Views:** 1,596+
 
 </div>
 
