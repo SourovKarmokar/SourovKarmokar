@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Rzb3d1ODNkdGlwNDhzbGI1eHA1MHhrd2Q0cHkwamllZjIwdDdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="coding gif"/>
+<img align="right" width="280" src="https://avatars.githubusercontent.com/u/72350583?s=400&u=6699893cfbb9db2bfa3d6a64d98fca2dab9e5f63&v=4" alt="Sourov Karmokar" style="border-radius: 50%;"/>
 
 ```javascript
 const sourov = {
@@ -121,7 +121,8 @@ const sourov = {
 - **514** Total Contributions (Oct 4, 2020 - Present)
 - **1** Current Streak (Aug 18)
 - **20** Longest Streak (Jan 21 - Feb 9)
-- **1,596** Profile Views
+- **1,598** Profile Views
+- **11** Followers • **10** Following
 
 </div>
 
@@ -215,19 +216,22 @@ I'm always interested in:
 
 **Find me on all platforms:**
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
 
 <br/>
 
-| Platform | Contact |
-|----------|---------|
-| 📧 **Email** | [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) |
-| 💼 **LinkedIn** | [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/) |
+### Direct Links:
+- 💻 **GitHub:** [@SourovKarmokar](https://github.com/sourovkarmokar)
+- 💼 **LinkedIn:** [in/sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/)
+- 👤 **Facebook:** [sourov.karmokar.773](https://www.facebook.com/sourov.karmokar.773/)
+- 📸 **Instagram:** [@sourov_karmokar_](https://www.instagram.com/sourov_karmokar_/)
+- ▶️ **YouTube:** [@020_sourovkarmokar2](https://www.youtube.com/@020_sourovkarmokar2)
+- 📧 **Email:** [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com)
 
 </div>
 
@@ -242,7 +246,8 @@ I'm always interested in:
 - 📈 **Total Contributions:** 514
 - 🔥 **Current Streak:** 1 day (as of Aug 18)
 - ⚡ **Longest Streak:** 20 days (Jan 21 - Feb 9)
-- 👁️ **Profile Views:** 1,596+
+- 👁️ **Profile Views:** 1,598+
+- 👥 **Community:** 11 Followers | 10 Following
 
 </div>
 
