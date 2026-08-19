@@ -1,43 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sourov Karmokar</h1>
-<h3 align="center">Mern Stack Developer</h3>
+<!-- ============================ HEADER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sourov%20Karmokar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourovkarmokar&label=Profile%20views&color=0e75b6&style=flat" alt="sourovkarmokar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourovkarmokar" alt="sourovkarmokar" /></a> </p>
-
-<img align ="right" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Rzb3d1ODNkdGlwNDhzbGI1eHA1MHhrd2Q0cHkwamllZjIwdDdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="sourovkarmokar" />
-
-- 🌱 I’m currently learning **Mern Stack Development**
-
-- 💬 Ask me about **AI , Machine Learning , Networking , Mern**
-
-- 📫 How to reach me **sourovkarmokar22@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourov-karmokar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourov-karmokar/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sourov.karmokar.773/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sourov.karmokar.773/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sourov_karmokar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sourov_karmokar_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@020_sourovkarmokar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@020_sourovkarmokar2" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sourov%20Karmokar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sourov+%F0%9F%91%8B;MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+I'm+Sourov+%F0%9F%91%8B;MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=for-the-badge&color=7c3aed)
+![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
 
 </div>
 
@@ -45,17 +20,25 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Rzb3d1ODNkdGlwNDhzbGI1eHA1MHhrd2Q0cHkwamllZjIwdDdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="coding gif"/>
+
 ```javascript
 const sourov = {
-  name:        "Sourov Karmokar",
-  role:        "MERN Stack Developer",
-  location:    "Bangladesh 🇧🇩",
-  learning:    ["MERN Stack", "Next.js", "AI/ML"],
-  interests:   ["Web Dev", "Machine Learning", "Networking"],
-  contact:     "sourovkarmokar22@gmail.com",
-  funFact:     "I debug with console.log and I'm not ashamed 😅"
+  name:      "Sourov Karmokar",
+  role:      "MERN Stack Developer",
+  location:  "Bangladesh 🇧🇩",
+  learning:  ["MERN Stack", "Next.js", "AI/ML"],
+  interests: ["Web Dev", "Machine Learning", "Networking"],
+  contact:   "sourovkarmokar22@gmail.com",
+  funFact:   "I debug with console.log 😅"
 };
 ```
+
+- 🌱 Currently deepening my skills in **MERN Stack Development**
+- 💬 Ask me about **AI, Machine Learning, Networking & MERN**
+- 📫 Reach me at **sourovkarmokar22@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -85,7 +68,7 @@ const sourov = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 🧰 Other Languages & Tools
+### 🧰 Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -102,15 +85,20 @@ const sourov = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourovkarmokar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovkarmokar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<a href="https://github.com/sourovkarmokar">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourovkarmokar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/sourovkarmokar">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovkarmokar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourovkarmokar&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=sourovkarmokar&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 
 </div>
+
+> **Note:** GitHub Stats cards depend on a public service that can occasionally rate-limit and briefly show a broken image. Just refresh — no config change needed.
 
 ---
 
@@ -118,7 +106,7 @@ const sourov = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourovkarmokar&theme=nord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourovkarmokar&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -138,20 +126,12 @@ const sourov = {
 
 <div align="center">
 
-📧 **Email:** [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com)
+📧 **Email:** [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) &nbsp;|&nbsp; 💼 **LinkedIn:** [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/)
 
-💼 **LinkedIn:** [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/)
+<br/>
 
----
-
-*"First, solve the problem. Then, write the code." – John Johnson*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourovkarmokar&show_icons=true&locale=en&layout=compact" alt="sourovkarmokar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourovkarmokar&show_icons=true&locale=en" alt="sourovkarmokar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourovkarmokar&" alt="sourovkarmokar" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
