@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sourov Karmokar
 
-## MERN Stack Developer | AI & ML Enthusiast | Open Source Contributor
+## MERN Stack Developer | AI & ML Enthusiast 
 
 <div align="center">
 
