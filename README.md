@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+I'm+Sourov+%F0%9F%91%8B;MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Sourov+%F0%9F%91%8B;MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,6 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
 
 </div>
 
@@ -24,19 +25,23 @@
 
 ```javascript
 const sourov = {
-  name:      "Sourov Karmokar",
-  role:      "MERN Stack Developer",
-  location:  "Bangladesh 🇧🇩",
-  learning:  ["MERN Stack", "Next.js", "AI/ML"],
-  interests: ["Web Dev", "Machine Learning", "Networking"],
-  contact:   "sourovkarmokar22@gmail.com",
-  funFact:   "I debug with console.log 😅"
+  name:       "Sourov Karmokar",
+  role:       "MERN Stack Developer",
+  location:   "Bangladesh 🇧🇩",
+  expertise:  ["Web Development", "MERN Stack", "Machine Learning", "AI"],
+  learning:   ["MERN Stack", "Next.js", "AI/ML", "Advanced Networking"],
+  interests:  ["Web Development", "Machine Learning", "Networking", "Open Source"],
+  contact:    "sourovkarmokar22@gmail.com",
+  funFact:    "I debug with console.log 😅"
 };
 ```
 
 - 🌱 Currently deepening my skills in **MERN Stack Development**
+- 🤖 Passionate about **AI & Machine Learning**
+- 🔗 Active in **Open Source** contributions
 - 💬 Ask me about **AI, Machine Learning, Networking & MERN**
 - 📫 Reach me at **sourovkarmokar22@gmail.com**
+- 🎯 Always eager to learn and explore new technologies
 
 <br clear="right"/>
 
@@ -62,13 +67,13 @@ const sourov = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 🧰 Languages & Tools
+### 💻 Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -78,6 +83,33 @@ const sourov = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎯 What I Do
+
+### 💡 **Web Development**
+- Full-stack MERN applications
+- React & Next.js development
+- Responsive & modern UI design
+- Database design & optimization
+
+### 🤖 **Machine Learning & AI**
+- Machine learning models
+- Data analysis & visualization
+- Python programming
+- TensorFlow & Deep Learning
+
+### 🔗 **Open Source**
+- Active contributor to open source projects
+- Community engagement
+- Collaborative development
+- Code quality & best practices
+
+### 📱 **Mobile Development**
+- React Native applications
+- Cross-platform development
+- Performance optimization
 
 ---
 
@@ -92,7 +124,9 @@ const sourov = {
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovkarmokar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
 </a>
 
-<br/><br/>
+</div>
+
+<div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com?user=sourovkarmokar&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 
@@ -122,16 +156,94 @@ const sourov = {
 
 ---
 
-## 📬 Get In Touch
+## 🔧 My Development Approach
+
+- ✅ **Clean Code** - Following best practices & design patterns
+- ✅ **Performance** - Optimized & efficient solutions
+- ✅ **Scalability** - Building for growth & future needs
+- ✅ **Documentation** - Well-documented code & projects
+- ✅ **Security** - Security-first approach in development
+- ✅ **Collaboration** - Team-oriented & communicative developer
+
+---
+
+## 🌟 Projects & Experience
+
+I've worked on various projects including:
+- **Web Applications** - Full-stack MERN applications
+- **Machine Learning Models** - Data analysis & prediction systems
+- **Open Source Contributions** - Helping the developer community
+- **Mobile Apps** - React Native cross-platform applications
+- **UI/UX Development** - Modern, responsive interfaces
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Next.js patterns
+- Deep learning & neural networks
+- Advanced networking concepts
+- Cloud deployment & DevOps
+- Microservices architecture
+
+---
+
+## 💼 Collaboration & Opportunities
+
+I'm always interested in:
+- 🤝 Collaborating on exciting projects
+- 📖 Contributing to open source
+- 💬 Sharing knowledge & learning from others
+- 🚀 Building innovative solutions
+- 👥 Networking with developers worldwide
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-📧 **Email:** [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) &nbsp;|&nbsp; 💼 **LinkedIn:** [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/)
-
-<br/>
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) |
+| 💼 **LinkedIn** | [sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/) |
+| 👤 **Facebook** | [sourov.karmokar.773](https://www.facebook.com/sourov.karmokar.773/) |
+| 📸 **Instagram** | [@sourov_karmokar_](https://www.instagram.com/sourov_karmokar_/) |
+| ▶️ **YouTube** | [@020_sourovkarmokar2](https://www.youtube.com/@020_sourovkarmokar2) |
+| 💻 **GitHub** | [sourovkarmokar](https://github.com/sourovkarmokar) |
 
 </div>
 
+---
+
+## 💭 My Philosophy
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
+
+> **"Code is read much more often than it is written." — Guido van Rossum**
+
+I believe in writing code that is not just functional, but maintainable, efficient, and beautiful.
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🐛 I debug with `console.log` 😅
+- ☕ Coffee & code is the perfect combination
+- 🎮 I love solving algorithmic challenges
+- 📚 Always reading about new technologies
+- 🌍 Passionate about building solutions for the world
+
+---
+
+<div align="center">
+
+### Let's build something amazing together! 🚀
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
