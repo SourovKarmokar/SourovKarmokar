@@ -1,38 +1,43 @@
-<!-- ============================ HEADER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sourov%20Karmokar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+# Hi there 👋 I'm Sourov Karmokar
+
+## MERN Stack Developer | AI & ML Enthusiast | Open Source Contributor
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Sourov+%F0%9F%91%8B;MERN+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&label_color=1f1f1f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
+![Profile Views](https://komarev.com/ghpvc/?username=sourovkarmokar&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/sourovkarmokar?style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" width="280" src="https://avatars.githubusercontent.com/u/72350583?s=400&u=6699893cfbb9db2bfa3d6a64d98fca2dab9e5f63&v=4" alt="Sourov Karmokar" style="border-radius: 50%;"/>
+## 👨‍💻 About Me
 
 ```javascript
 const sourov = {
-  name:       "Sourov Karmokar",
-  role:       "MERN Stack Developer",
-  location:   "Bangladesh 🇧🇩",
-  expertise:  ["Web Development", "MERN Stack", "Machine Learning", "AI"],
-  learning:   ["MERN Stack", "Next.js", "AI/ML", "Advanced Networking"],
-  interests:  ["Web Development", "Machine Learning", "Networking", "Open Source"],
-  contact:    "sourovkarmokar22@gmail.com",
-  funFact:    "I debug with console.log 😅"
+  name: "Sourov Karmokar",
+  role: "MERN Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  expertise: [
+    "Web Development",
+    "MERN Stack",
+    "Machine Learning",
+    "AI"
+  ],
+  learning: [
+    "MERN Stack",
+    "Next.js",
+    "AI/ML",
+    "Advanced Networking"
+  ],
+  interests: [
+    "Web Development",
+    "Machine Learning",
+    "Networking",
+    "Open Source"
+  ],
+  contact: "sourovkarmokar22@gmail.com",
+  funFact: "I debug with console.log 😅"
 };
 ```
 
@@ -42,8 +47,6 @@ const sourov = {
 - 💬 Ask me about **AI, Machine Learning, Networking & MERN**
 - 📫 Reach me at **sourovkarmokar22@gmail.com**
 - 🎯 Always eager to learn and explore new technologies
-
-<br clear="right"/>
 
 ---
 
@@ -86,106 +89,48 @@ const sourov = {
 
 ---
 
+## 📊 GitHub Statistics
+
+### Quick Stats
+- **514** Total Contributions
+- **11** Followers • **10** Following
+- **1,598** Profile Views
+- 📅 **Joined:** October 4, 2020
+
+### Activity Timeline
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 514 |
+| **Current Streak** | 1 day |
+| **Longest Streak** | 20 days |
+| **Current Date Reference** | Aug 18 |
+
+---
+
 ## 🎯 What I Do
 
-### 💡 **Web Development**
+### 💡 Web Development
 - Full-stack MERN applications
 - React & Next.js development
 - Responsive & modern UI design
 - Database design & optimization
 
-### 🤖 **Machine Learning & AI**
+### 🤖 Machine Learning & AI
 - Machine learning models
 - Data analysis & visualization
 - Python programming
 - TensorFlow & Deep Learning
 
-### 🔗 **Open Source**
+### 🔗 Open Source
 - Active contributor to open source projects
 - Community engagement
 - Collaborative development
 - Code quality & best practices
 
-### 📱 **Mobile Development**
+### 📱 Mobile Development
 - React Native applications
 - Cross-platform development
 - Performance optimization
-
----
-
-## 📊 GitHub Stats & Contribution Overview
-
-<div align="center">
-
-### 🎯 Quick Stats
-- **514** Total Contributions (Oct 4, 2020 - Present)
-- **1** Current Streak (Aug 18)
-- **20** Longest Streak (Jan 21 - Feb 9)
-- **1,598** Profile Views
-- **11** Followers • **10** Following
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/sourovkarmokar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourovkarmokar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/sourovkarmokar">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourovkarmokar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=sourovkarmokar&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
-
-</div>
-
-> **Note:** GitHub Stats cards depend on a public service that can occasionally rate-limit and briefly show a broken image. Just refresh — no config change needed.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourovkarmokar&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Sourov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sourovkarmokar&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🔧 My Development Approach
-
-- ✅ **Clean Code** - Following best practices & design patterns
-- ✅ **Performance** - Optimized & efficient solutions
-- ✅ **Scalability** - Building for growth & future needs
-- ✅ **Documentation** - Well-documented code & projects
-- ✅ **Security** - Security-first approach in development
-- ✅ **Collaboration** - Team-oriented & communicative developer
-
----
-
-## 🌟 Projects & Experience
-
-I've worked on various projects including:
-- **Web Applications** - Full-stack MERN applications
-- **Machine Learning Models** - Data analysis & prediction systems
-- **Open Source Contributions** - Helping the developer community
-- **Mobile Apps** - React Native cross-platform applications
-- **UI/UX Development** - Modern, responsive interfaces
 
 ---
 
@@ -212,58 +157,35 @@ I'm always interested in:
 
 ## 📬 Connect With Me
 
-<div align="center">
-
-**Find me on all platforms:**
+### Social Media
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourovkarmokar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-karmokar/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.karmokar.773/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourov_karmokar_/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@020_sourovkarmokar2)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovkarmokar22@gmail.com)
 
-<br/>
+### Direct Contact
 
-### Direct Links:
-- 💻 **GitHub:** [@SourovKarmokar](https://github.com/sourovkarmokar)
-- 💼 **LinkedIn:** [in/sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/)
-- 👤 **Facebook:** [sourov.karmokar.773](https://www.facebook.com/sourov.karmokar.773/)
-- 📸 **Instagram:** [@sourov_karmokar_](https://www.instagram.com/sourov_karmokar_/)
-- ▶️ **YouTube:** [@020_sourovkarmokar2](https://www.youtube.com/@020_sourovkarmokar2)
-- 📧 **Email:** [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com)
-
-</div>
-
----
-
-## 📊 Contribution Breakdown
-
-<div align="center">
-
-**GitHub Activity Timeline:**
-- 🗓️ **Joined:** October 4, 2020
-- 📈 **Total Contributions:** 514
-- 🔥 **Current Streak:** 1 day (as of Aug 18)
-- ⚡ **Longest Streak:** 20 days (Jan 21 - Feb 9)
-- 👁️ **Profile Views:** 1,598+
-- 👥 **Community:** 11 Followers | 10 Following
-
-</div>
+| Platform | Link |
+|----------|------|
+| 🌐 **GitHub** | [@SourovKarmokar](https://github.com/sourovkarmokar) |
+| 💼 **LinkedIn** | [in/sourov-karmokar](https://www.linkedin.com/in/sourov-karmokar/) |
+| 👤 **Facebook** | [sourov.karmokar.773](https://www.facebook.com/sourov.karmokar.773/) |
+| 📸 **Instagram** | [@sourov_karmokar_](https://www.instagram.com/sourov_karmokar_/) |
+| ▶️ **YouTube** | [@020_sourovkarmokar2](https://www.youtube.com/@020_sourovkarmokar2) |
+| 📧 **Email** | [sourovkarmokar22@gmail.com](mailto:sourovkarmokar22@gmail.com) |
 
 ---
 
 ## 💭 My Philosophy
-
-<div align="center">
 
 > **"First, solve the problem. Then, write the code." — John Johnson**
 
 > **"Code is read much more often than it is written." — Guido van Rossum**
 
 I believe in writing code that is not just functional, but maintainable, efficient, and beautiful.
-
-</div>
 
 ---
 
@@ -277,10 +199,21 @@ I believe in writing code that is not just functional, but maintainable, efficie
 
 ---
 
+## 📈 My Development Approach
+
+- ✅ **Clean Code** - Following best practices & design patterns
+- ✅ **Performance** - Optimized & efficient solutions
+- ✅ **Scalability** - Building for growth & future needs
+- ✅ **Documentation** - Well-documented code & projects
+- ✅ **Security** - Security-first approach in development
+- ✅ **Collaboration** - Team-oriented & communicative developer
+
+---
+
 <div align="center">
 
 ### Let's build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+**Made with ❤️ by Sourov Karmokar**
 
 </div>
